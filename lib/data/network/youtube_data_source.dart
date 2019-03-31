@@ -10,8 +10,8 @@ class YoutubeDataSource {
   final http.Client client;
 
   final String _searchBaseUrl =
-      "https://www.googleapis.com/youtube/v3/search/?part=snippet" +
-          "&maxResults=$MAX_SEARCH_RESULTS&key=$API_KEY";
+      'https://www.googleapis.com/youtube/v3/search?part=snippet' +
+          '&maxResults=$MAX_SEARCH_RESULTS&type=video&key=$API_KEY';
 
   YoutubeDataSource(this.client);
 
