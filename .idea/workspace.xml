@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c016e3af-b3d8-46f5-b70b-5b9303054eb8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/youtube_search_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/android/youtube_search_android.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/model/search/id.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/model/search/id.g.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/model/search/search_item.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/model/search/search_item.g.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/model/search/search_snippet.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/model/search/search_snippet.g.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/model/search/thumbnail.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/model/search/thumbnail.g.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/model/search/thumbnails.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/model/search/thumbnails.g.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/model/search/youtube_search_result.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/model/search/youtube_search_result.g.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/model/serializer/serializers.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/model/serializer/serializers.g.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -73,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -203,7 +192,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14179105" />
